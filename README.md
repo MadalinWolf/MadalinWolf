@@ -2,13 +2,15 @@
 
 **Apps & Games**
 
-Building software and interactive experiences under Madwolf Studios.
+Founder and developer building software and interactive experiences under Madwolf Studios.
 
 ### Current Project
 
-**Stusys**
+**WOLFCANI — OnFocus Workspace**
 
-A student productivity and study management application designed as a personal Student OS / command center.
+*Everything you need, in one place.*
+
+WOLFCANI is an all-in-one study workspace designed to help students stay focused by bringing essential study and productivity tools together in one place — tasks, subjects, calendar, exams and a focus timer, running locally in the browser.
 
 ### Focus
 
