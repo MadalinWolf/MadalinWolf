@@ -71,38 +71,23 @@ I found my way back to programming after years away — it started as a kid, ope
 
 **Languages**
 
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6"> - <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E">
-<img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB">
-<img alt="Java" src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=E76F00">
-<img alt="GDScript" src="https://img.shields.io/badge/GDScript-0d1117?style=flat-square&logo=godotengine&logoColor=478CBF">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6"> · <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E"> · <img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB"> · <img alt="Java" src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=E76F00"> · <img alt="GDScript" src="https://img.shields.io/badge/GDScript-0d1117?style=flat-square&logo=godotengine&logoColor=478CBF">
 
 **Game Development**
 
-<img alt="Godot" src="https://img.shields.io/badge/Godot_4-0d1117?style=flat-square&logo=godotengine&logoColor=478CBF">
-<img alt="Audacity" src="https://img.shields.io/badge/Audacity-0d1117?style=flat-square&logo=audacity&logoColor=0000CC">
-<img alt="LibreSprite" src="https://img.shields.io/badge/LibreSprite-0d1117?style=flat-square">
+<img alt="Godot" src="https://img.shields.io/badge/Godot_4-0d1117?style=flat-square&logo=godotengine&logoColor=478CBF"> · <img alt="Audacity" src="https://img.shields.io/badge/Audacity-0d1117?style=flat-square&logo=audacity&logoColor=0000CC"> · <img alt="LibreSprite" src="https://img.shields.io/badge/LibreSprite-0d1117?style=flat-square">
 
 **Frontend**
 
-<img alt="React" src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB">
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4">
-<img alt="Vite" src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF">
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26">
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6">
+<img alt="React" src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB"> · <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4"> · <img alt="Vite" src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF"> · <img alt="HTML5" src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26"> · <img alt="CSS3" src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6">
 
 **Testing**
 
-<img alt="Vitest" src="https://img.shields.io/badge/Vitest-0d1117?style=flat-square&logo=vitest&logoColor=729B1A">
-<img alt="Playwright" src="https://img.shields.io/badge/Playwright-0d1117?style=flat-square&logo=playwright&logoColor=2EAD33">
+<img alt="Vitest" src="https://img.shields.io/badge/Vitest-0d1117?style=flat-square&logo=vitest&logoColor=729B1A"> · <img alt="Playwright" src="https://img.shields.io/badge/Playwright-0d1117?style=flat-square&logo=playwright&logoColor=2EAD33">
 
 **Tooling & DevOps**
 
-<img alt="Git" src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032">
-<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF">
-<img alt="Docker" src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED">
-<img alt="Tauri" src="https://img.shields.io/badge/Tauri-0d1117?style=flat-square&logo=tauri&logoColor=24C8DB">
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E">
-<img alt="Netlify" src="https://img.shields.io/badge/Netlify-0d1117?style=flat-square&logo=netlify&logoColor=00C7B7">
+<img alt="Git" src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032"> · <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF"> · <img alt="Docker" src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED"> · <img alt="Tauri" src="https://img.shields.io/badge/Tauri-0d1117?style=flat-square&logo=tauri&logoColor=24C8DB"> · <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E"> · <img alt="Netlify" src="https://img.shields.io/badge/Netlify-0d1117?style=flat-square&logo=netlify&logoColor=00C7B7">
 
 ## 🚀 Projects
 
