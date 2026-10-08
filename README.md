@@ -71,8 +71,7 @@ I found my way back to programming after years away — it started as a kid, ope
 
 **Languages**
 
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6"> - <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E">
 <img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB">
 <img alt="Java" src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=E76F00">
 <img alt="GDScript" src="https://img.shields.io/badge/GDScript-0d1117?style=flat-square&logo=godotengine&logoColor=478CBF">
