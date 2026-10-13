@@ -124,7 +124,7 @@ I found my way back to programming after years away — it started as a kid, ope
 ## 📂 More Projects
 
 - [**madscope-action**](https://github.com/MadalinWolf/madscope-action) — GitHub Action that runs MadScope's responsive testing and visual regression in CI. *(MIT)*
-- [**madwolfstudios**](https://github.com/MadalinWolf/madwolfstudios) — the studio website itself: React + Vite + Tailwind, prerendered static pages, deployed on Netlify.
+- [**madwolfstudios**](https://github.com/MadalinWolf/madwolfstudios) — the studio website itself: React + Vite + Tailwind, prerendered static pages, deployed on GitHub Pages.
 
 ## 📊 GitHub in Numbers
 
@@ -136,6 +136,11 @@ I found my way back to programming after years away — it started as a kid, ope
 
 <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=MadalinWolf&hide_border=true&background=0D1117&ring=22d3ee&fire=22d3ee&currStreakLabel=00FF41&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=30363D">
 </div>
+
+## ✉️ Contact
+
+For software development, open-source projects, collaboration or bug reports:  
+**[madalindinu@protonmail.com](mailto:madalindinu@protonmail.com)**
 
 ```console
 PS C:\Users\Madalin> echo "Thanks for visiting — feel free to explore, star or say hi"
