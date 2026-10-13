@@ -87,7 +87,7 @@ I found my way back to programming after years away — it started as a kid, ope
 
 **Tooling & DevOps**
 
-<img alt="Git" src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032"> · <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF"> · <img alt="Docker" src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED"> · <img alt="Tauri" src="https://img.shields.io/badge/Tauri-0d1117?style=flat-square&logo=tauri&logoColor=24C8DB"> · <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E"> · <img alt="Netlify" src="https://img.shields.io/badge/Netlify-0d1117?style=flat-square&logo=netlify&logoColor=00C7B7">
+<img alt="Git" src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032"> · <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF"> · <img alt="Docker" src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED"> · <img alt="Tauri" src="https://img.shields.io/badge/Tauri-0d1117?style=flat-square&logo=tauri&logoColor=24C8DB"> · <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E"> · <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-0d1117?style=flat-square&logo=githubpages&logoColor=4F7FDF">
 
 ## 🚀 Projects
 
