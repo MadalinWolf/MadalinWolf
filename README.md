@@ -1,155 +1,268 @@
-<div align="center">
+ <div align="center">
 
 # Hi, I'm Madalin 👋
 
-**Indie Game Developer · Software Developer**  
+**Indie Game Developer · Software Developer**
+
 Madrid, Spain
 
-I design and build games, applications and developer-focused tools —  
-from **Godot** games to **local-first TypeScript** desktop software —  
-as the founder of [Madwolf Studios](https://madwolfstudios.com).
+I’m an indie game and software developer building useful tools, original games and open-source software under [Madwolf Studios](https://madwolfstudios.com).
 
-<br/>
+From **CofreTabs** and **MadScope** to games built with Godot, I turn ideas into real projects — released, documented and built with care.
 
-[<img alt="madwolfstudios.com" src="https://img.shields.io/badge/madwolfstudios.com-0d1117?style=flat-square&logo=googlechrome&logoColor=00FF41">](https://madwolfstudios.com)
-&nbsp;
-<a href="https://komarev.com/ghpvc/?username=MadalinWolf"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=MadalinWolf&style=flat-square&color=00FF41&label=Profile+views"></a>
+<a href="https://madwolfstudios.com">
+  <img src="https://img.shields.io/badge/MADWOLF_STUDIOS-0d1117?style=for-the-badge&logo=wolf&logoColor=00FF41" alt="Madwolf Studios" />
+</a>
+<a href="https://github.com/MadalinWolf?tab=repositories">
+  <img src="https://img.shields.io/badge/OPEN_SOURCE-0d1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="Open source projects" />
+</a>
+<a href="https://komarev.com/ghpvc/?username=MadalinWolf">
+  <img src="https://komarev.com/ghpvc/?username=MadalinWolf&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS" alt="Profile views" />
+</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=00FF41&center=true&vCenter=true&width=600&lines=Building+software+with+purpose.;Making+games+with+something+to+say.;Independent+development.+No+shortcuts.;Ideas+in.+Real+projects+out." alt="Building software with purpose. Making games with something to say." />
 
 </div>
 
 ```console
 PS C:\Users\Madalin> whoami
-madalin — indie game & software developer · founder @ madwolf studios · madrid, spain
+
+madalin — indie game & software developer
+founder @ madwolf studios · madrid, spain
+
+PS C:\Users\Madalin> _
 ```
 
 ## 🧭 About Me
 
-- 🎮 Indie game developer — currently building **No Respawn in War** with Godot 4.4 and GDScript.
-- 🧰 Creator of **[MadScope](https://github.com/MadalinWolf/MadScope)**, a local-first responsive testing and visual regression tool for developers.
-- 💻 Software developer working across TypeScript, JavaScript, Python and Java.
-- 🛠️ Currently developing **WOLFCANI**, an OnFocus Workspace that keeps a student's tasks, subjects, exams and calendar in one place.
-- 🔓 I ship open source — MadScope and its GitHub Action are released under the MIT license.
-- 📚 Higher Technician in Multiplatform Application Development (DAM, Spain).
+- 🚀 **Open-source developer:** Creator of [CofreTabs](https://github.com/MadalinWolf/CofreTabs) and [MadScope](https://github.com/MadalinWolf/MadScope), two MIT-licensed projects built to solve real problems.
+- 💻 **Software development:** I build applications, developer tools and digital experiences, turning ideas into working software across different technologies and platforms.
+- 🎮 **Game development:** Two original games are in the works: **No Respawn in War** and **PunchPress**. Details stay under wraps for now. 👀 **More when the time is right.**
+- 🐺 **Currently building:** [WOLFCANI](https://madwolfstudios.com/projects/wolfcani/) and exploring new ideas under Madwolf Studios.
+- 🎨 **Beyond code:** Pixel art, visual design, Photoshop and creative tools are part of my workflow, too.
+- 📚 **Education:** Higher Technician in Multiplatform Application Development (DAM, Spain).
+
+My toolkit goes beyond any single language or framework — from TypeScript, JavaScript, Python and Java to HTML, CSS, Tailwind CSS, SQL, Linux, Git, GitHub, Godot and creative software. **Always learning, always building.**
 
 <div align="center">
-<table>
-<tr>
-<td align="left" width="50%">
 
-#### 📈 committers.top
+[🌐 Website](https://madwolfstudios.com) · [📝 Dev Log](https://madwolfstudios.com/dev-log/) · [📂 All Projects](https://madwolfstudios.com/projects/) · [🎮 Games](https://madwolfstudios.com/games/)
 
-<a href="https://user-badge.committers.top/spain/MadalinWolf.svg"><img alt="committers.top rank — Spain" src="https://user-badge.committers.top/spain/MadalinWolf.svg"></a>
+</div>
 
-My standing among the most active GitHub users in Spain — the badge updates automatically as public commits are counted.  
-[See the full Spain list →](https://committers.top/spain)
+---
 
-</td>
-<td width="50%">
+## 🖥️ Current Status
 
 ```text
-$ status
-role    indie game developer · software developer
-studio  madwolf studios — madrid, spain
-now     wolfcani · no respawn in war
-oss     madscope (mit)
+┌─[ MADWOLF STUDIOS ]───────────────────────────────────┐
+│                                                       │
+│  role      indie game & software developer            │
+│  studio    madwolf studios                             │
+│  building  CofreTabs · MadScope · WOLFCANI             │
+│  creating  No Respawn in War · PunchPress              │
+│  approach  build it · test it · ship it                │
+│                                                       │
+└───────────────────────────────────────────────────────┘
 ```
 
-</td>
-</tr>
-</table>
+<div align="center">
+
+### 📈 GitHub Community
+
+<a href="https://committers.top/spain">
+  <img src="https://user-badge.committers.top/spain/MadalinWolf.svg" alt="MadalinWolf's committers.top ranking in Spain" />
+</a>
+
+<sub>See the <a href="https://committers.top/spain">full Spain ranking</a>.</sub>
+
 </div>
 
 ## 💬 More About Me
 
-Madwolf Studios is a one-person studio: I take projects from idea to release myself — design, code, testing, art, sound and deployment. My main work right now is **WOLFCANI** and **No Respawn in War**, and I document what changes, what breaks and what's next in the [public dev log](https://madwolfstudios.com/dev-log/).
+Madwolf Studios is my independent, one-person studio. I take ideas from concept to release, working across software development, game design, testing, creative work and deployment.
 
-I care about tools that respect their users. **MadScope** is local-first by construction — no account, no telemetry, screenshots and baselines stay on your own disk. That principle guides how I build everything else.
+I believe software should respect its users. That’s why I build privacy-conscious, local-first tools like **CofreTabs** and **MadScope**, while developing **WOLFCANI** and working on my two upcoming games, **No Respawn in War** and **PunchPress**. Each project gives me a different way to experiment, solve problems and bring ideas to life.
 
-I found my way back to programming after years away — it started as a kid, opening websites and reading their source to see how they worked. Before tech, I spent several years managing gyms and leading teams; solving problems while they are happening turned out to be the same discipline, just in a different editor.
+My path back into programming started with the curiosity I had as a kid, opening websites and reading their source code to understand how they worked. Before returning to tech, I spent several years managing gyms and leading teams — experience that still shapes how I approach problem-solving and building products.
 
-## 🛠️ Tech Stack
+I share progress, lessons learned and what’s coming next in the [Madwolf Studios dev log](https://madwolfstudios.com/dev-log/).
 
-**Languages**
+---
 
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6"> · <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E"> · <img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB"> · <img alt="Java" src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=E76F00"> · <img alt="GDScript" src="https://img.shields.io/badge/GDScript-0d1117?style=flat-square&logo=godotengine&logoColor=478CBF">
+## 🚀 Featured Projects
 
-**Game Development**
+### 01 · 🔐 [CofreTabs](https://github.com/MadalinWolf/CofreTabs)
 
-<img alt="Godot" src="https://img.shields.io/badge/Godot_4-0d1117?style=flat-square&logo=godotengine&logoColor=478CBF"> · <img alt="Audacity" src="https://img.shields.io/badge/Audacity-0d1117?style=flat-square&logo=audacity&logoColor=0000CC"> · <img alt="LibreSprite" src="https://img.shields.io/badge/LibreSprite-0d1117?style=flat-square">
+**Your tabs. Your vault. Your device.**
 
-**Frontend**
+A privacy-focused browser extension that turns saved tabs into a searchable, organized local vault. No account, no cloud vault, no telemetry — your collection stays in your browser.
 
-<img alt="React" src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB"> · <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4"> · <img alt="Vite" src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF"> · <img alt="HTML5" src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26"> · <img alt="CSS3" src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6">
+`JavaScript` `IndexedDB` `Manifest V3` `Privacy-first`
 
-**Testing**
+[**Source code →**](https://github.com/MadalinWolf/CofreTabs) · [Releases](https://github.com/MadalinWolf/CofreTabs/releases)
 
-<img alt="Vitest" src="https://img.shields.io/badge/Vitest-0d1117?style=flat-square&logo=vitest&logoColor=729B1A"> · <img alt="Playwright" src="https://img.shields.io/badge/Playwright-0d1117?style=flat-square&logo=playwright&logoColor=2EAD33">
+---
 
-**Tooling & DevOps**
+### 02 · 🧪 [MadScope](https://github.com/MadalinWolf/MadScope)
 
-<img alt="Git" src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032"> · <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF"> · <img alt="Docker" src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED"> · <img alt="Tauri" src="https://img.shields.io/badge/Tauri-0d1117?style=flat-square&logo=tauri&logoColor=24C8DB"> · <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E"> · <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-0d1117?style=flat-square&logo=githubpages&logoColor=4F7FDF">
+**Responsive testing and visual regression, without the guesswork.**
 
-## 🚀 Projects
+A local-first testing tool that renders websites across viewports, helps spot layout issues and catches visual regressions. Available as a desktop app, CLI and GitHub Action.
 
-### 🧪 [MadScope](https://github.com/MadalinWolf/MadScope)
+`TypeScript` `React` `Playwright` `Tauri` `MIT`
 
-> Local-first responsive website testing and visual regression for developers — it renders any URL in real Chromium across multiple viewports, flags potential layout issues, scores the page and catches visual regressions. No account, no telemetry; screenshots and baselines stay on your machine.
+[**Source code →**](https://github.com/MadalinWolf/MadScope) · [Project page](https://madwolfstudios.com/projects/madscope/)
 
-| Status | License | Stack |
-| --- | --- | --- |
-| ✅ Completed & released (v1.0.1 — desktop app, CLI and GitHub Action) | MIT | TypeScript · React · Playwright · Tauri |
+---
 
-**[github.com/MadalinWolf/MadScope](https://github.com/MadalinWolf/MadScope)** · [Project page](https://madwolfstudios.com/projects/madscope/)
+### 03 · 🐺 [WOLFCANI — OnFocus Workspace](https://madwolfstudios.com/projects/wolfcani/)
 
-### 🐺 [WOLFCANI — OnFocus Workspace](https://madwolfstudios.com/projects/wolfcani/)
+**A focused workspace for students.**
 
-> An all-in-one study workspace for students: tasks, subjects, topics, exams, a calendar with reminders and a Pomodoro focus timer in one place — with a separate, isolated workspace per profile, running locally in the browser.
+An ongoing project under Madwolf Studios, built to bring study organization and focus tools together in one place.
 
-| Status | Stack |
-| --- | --- |
-| 🛠️ In development | React 18 · TypeScript · Vite · Tailwind CSS |
+`React` `TypeScript` `Vite` `Tailwind CSS`
 
-**[madwolfstudios.com/projects/wolfcani](https://madwolfstudios.com/projects/wolfcani/)**
+**Status:** `In development`
 
-### 🎖️ No Respawn in War
+[**Explore WOLFCANI →**](https://madwolfstudios.com/projects/wolfcani/)
 
-> An independent game in early development, created as a tribute to those affected by wars and conflicts around the world.
+---
 
-| Status | Engine |
-| --- | --- |
-| 🛠️ In development | Godot 4.4 · GDScript |
+## 🎮 The Games
 
-**[madwolfstudios.com/games/no-respawn-in-war](https://madwolfstudios.com/games/no-respawn-in-war/)** — more details coming soon.
+Some ideas are better experienced than explained.
+
+### 🎖️ [No Respawn in War](https://madwolfstudios.com/games/no-respawn-in-war/)
+
+An original game currently in development under Madwolf Studios.
+
+**More soon.**
+
+### 🥊 PunchPress
+
+Another game is in the works. For now, that's all you're getting.
+
+**Stay tuned. 👀**
+
+---
 
 ## 📂 More Projects
 
-- [**madscope-action**](https://github.com/MadalinWolf/madscope-action) — GitHub Action that runs MadScope's responsive testing and visual regression in CI. *(MIT)*
-- [**madwolfstudios**](https://github.com/MadalinWolf/madwolfstudios) — the studio website itself: React + Vite + Tailwind, prerendered static pages, deployed on GitHub Pages.
+| Project | What it is |
+| --- | --- |
+| [**madscope-action**](https://github.com/MadalinWolf/madscope-action) | GitHub Action for running MadScope checks in CI. `MIT` |
+| [**madwolfstudios**](https://github.com/MadalinWolf/madwolfstudios) | The website and online home of Madwolf Studios. |
+
+[Explore all repositories →](https://github.com/MadalinWolf?tab=repositories)
+
+---
+
+## 🛠️ Technologies & Tools
+
+I work across software development, game development, testing, deployment and creative workflows. This is a snapshot of my toolkit — **not an exhaustive list**.
+
+<details open>
+<summary><strong>💻 Languages & Web Development</strong></summary>
+<br />
+
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=E76F00" alt="Java" />
+<img src="https://img.shields.io/badge/GDScript-0d1117?style=flat-square&logo=godotengine&logoColor=478CBF" alt="GDScript" />
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="SQL" />
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
+
+</details>
+
+<details>
+<summary><strong>🎮 Game Development & Creative</strong></summary>
+<br />
+
+<img src="https://img.shields.io/badge/Godot-0d1117?style=flat-square&logo=godotengine&logoColor=478CBF" alt="Godot" />
+<img src="https://img.shields.io/badge/Pixel_Art-0d1117?style=flat-square&logoColor=00FF41" alt="Pixel art" />
+<img src="https://img.shields.io/badge/LibreSprite-0d1117?style=flat-square" alt="LibreSprite" />
+<img src="https://img.shields.io/badge/Photoshop-0d1117?style=flat-square&logo=adobephotoshop&logoColor=31A8FF" alt="Adobe Photoshop" />
+<img src="https://img.shields.io/badge/Audacity-0d1117?style=flat-square&logo=audacity&logoColor=0000CC" alt="Audacity" />
+
+</details>
+
+<details>
+<summary><strong>🧪 Testing & Quality</strong></summary>
+<br />
+
+<img src="https://img.shields.io/badge/Vitest-0d1117?style=flat-square&logo=vitest&logoColor=729B1A" alt="Vitest" />
+<img src="https://img.shields.io/badge/Playwright-0d1117?style=flat-square&logo=playwright&logoColor=2EAD33" alt="Playwright" />
+
+</details>
+
+<details>
+<summary><strong>⚙️ Tools, Platforms & DevOps</strong></summary>
+<br />
+
+<img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
+<img src="https://img.shields.io/badge/Ubuntu-0d1117?style=flat-square&logo=ubuntu&logoColor=E95420" alt="Ubuntu" />
+<img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=557C94" alt="Kali Linux" />
+<img src="https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="Visual Studio Code" />
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+<img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/Tauri-0d1117?style=flat-square&logo=tauri&logoColor=24C8DB" alt="Tauri" />
+<img src="https://img.shields.io/badge/GitHub_Pages-0d1117?style=flat-square&logo=githubpages&logoColor=4F7FDF" alt="GitHub Pages" />
+
+</details>
+
+*And much more — always experimenting with new tools, technologies and ways to build better things.*
+
+---
 
 ## 📊 GitHub in Numbers
 
 <div align="center">
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MadalinWolf&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=22d3ee&text_color=C9D1D9&ring_color=22d3ee">
-<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadalinWolf&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=6">
 
-<br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MadalinWolf&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=22d3ee&text_color=C9D1D9&ring_color=22d3ee" alt="Madalin's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadalinWolf&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=6" alt="Most-used programming languages" />
 
-<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=MadalinWolf&hide_border=true&background=0D1117&ring=22d3ee&fire=22d3ee&currStreakLabel=00FF41&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=30363D">
+<br />
+
+<img src="https://streak-stats.demolab.com?user=MadalinWolf&hide_border=true&background=0D1117&ring=22d3ee&fire=22d3ee&currStreakLabel=00FF41&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=30363D" alt="GitHub contribution streak" />
+
 </div>
 
-## ✉️ Contact
+---
 
-For software development, open-source projects, collaboration or bug reports:  
+## ✉️ Get in Touch
+
+For software development, open-source projects, collaboration or bug reports:
+
 **[madalindinu@protonmail.com](mailto:madalindinu@protonmail.com)**
+
+<div align="center">
+
+[🌐 Website](https://madwolfstudios.com) · [📝 Dev Log](https://madwolfstudios.com/dev-log/) · [🚀 Projects](https://madwolfstudios.com/projects/) · [🎮 Games](https://madwolfstudios.com/games/) · [✉️ Contact](https://madwolfstudios.com/contact/)
+
+</div>
 
 ```console
 PS C:\Users\Madalin> echo "Thanks for visiting — feel free to explore, star or say hi"
+
 Thanks for visiting — feel free to explore, star or say hi
+
 PS C:\Users\Madalin> _
 ```
 
 <div align="center">
 
-[Website](https://madwolfstudios.com) · [Dev Log](https://madwolfstudios.com/dev-log/) · [Projects](https://madwolfstudios.com/projects/) · [Games](https://madwolfstudios.com/games/) · [Contact](https://madwolfstudios.com/contact/)
+**🐺 MADWOLF STUDIOS**
+
+<sub>Independent by choice. Building with purpose. More to come.</sub>
 
 </div>
