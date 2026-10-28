@@ -16,6 +16,9 @@ From **CofreTabs** and **MadScope** to games built with Godot, I turn ideas into
 <a href="https://github.com/MadalinWolf?tab=repositories">
   <img src="https://img.shields.io/badge/OPEN_SOURCE-0d1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="Open source projects" />
 </a>
+<a href="https://github.com/sponsors/MadalinWolf">
+  <img src="https://img.shields.io/badge/SPONSOR-0d1117?style=for-the-badge&logo=github-sponsors&logoColor=00FF41" alt="GitHub Sponsors" />
+</a>
 <a href="https://komarev.com/ghpvc/?username=MadalinWolf">
   <img src="https://komarev.com/ghpvc/?username=MadalinWolf&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS" alt="Profile views" />
 </a>
@@ -58,10 +61,11 @@ My toolkit goes beyond any single language or framework — from TypeScript, Jav
 ┌─[ MADWOLF STUDIOS ]───────────────────────────────────┐
 │                                                       │
 │  role      indie game & software developer            │
-│  studio    madwolf studios                             │
-│  building  CofreTabs · MadScope · WOLFCANI             │
-│  creating  No Respawn in War · PunchPress              │
-│  approach  build it · test it · ship it                │
+│  studio    madwolf studios                            │
+│  building  MadScope · WOLFCANI                        │
+│  shipped   CofreTabs v1.1.0 · free & open source      │
+│  creating  No Respawn in War · PunchPress             │
+│  approach  build it · test it · ship it               │
 │                                                       │
 └───────────────────────────────────────────────────────┘
 ```
@@ -96,11 +100,11 @@ I share progress, lessons learned and what’s coming next in the [Madwolf Studi
 
 **Your tabs. Your vault. Your device.**
 
-A privacy-focused browser extension that turns saved tabs into a searchable, organized local vault. No account, no cloud vault, no telemetry — your collection stays in your browser.
+A privacy-focused browser extension (v1.1.0, released) that turns saved tabs into a searchable, organized local vault. No account, no cloud, no telemetry — everything stays in your browser. Free & open source (MIT), for Chromium 102+ (Chrome, Edge, Brave, Vivaldi, Opera).
 
 `JavaScript` `IndexedDB` `Manifest V3` `Privacy-first`
 
-[**Source code →**](https://github.com/MadalinWolf/CofreTabs) · [Releases](https://github.com/MadalinWolf/CofreTabs/releases)
+[**Source code →**](https://github.com/MadalinWolf/CofreTabs) · [**Latest release →**](https://github.com/MadalinWolf/CofreTabs/releases/latest) · [Project page →](https://madwolfstudios.com/projects/cofretabs/)
 
 ---
 
